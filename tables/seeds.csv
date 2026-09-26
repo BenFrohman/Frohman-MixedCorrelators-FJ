@@ -1,0 +1,11 @@
+family,rooms,symbol,role,value
+empty-stack off-rule,180,X_klm off-rule,already a number,0
+Lefschetz metric,n/a,eta(omega^i,omega^{4-i}),already a number,includes volume 6
+broad metric,n/a,eta on 2605,already a number,residue pairing of Jac(F)^J
+Jac(W) residues,42,coeff of u^3 v^5,algebra not F-vir,"{1,-6}"
+BBN seed,(0,0,1),X_001(alpha,beta,phi_J),MUST come from virtual class,OPEN
+BNB seed,(0,1,0),X_010(alpha,phi_J,beta),MUST come from virtual class,OPEN
+NBB seed,(1,0,0),X_100(phi_J,alpha,beta),MUST come from virtual class,OPEN
+BNN family,12,X_klm one-broad,WDVV output after S,OPEN
+NNN sum 7,15,X_klm three-narrow,pairing axiom + unit check,OPEN
+NNN sum 13,6,X_klm three-narrow,constraint 0 if Lefschetz ID is cited,CONSTRAINT
