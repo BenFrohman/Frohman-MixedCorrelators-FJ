@@ -1,7 +1,8 @@
 kind,symbol,role,status
-true mixed seed,X_001(alpha,beta,phi_J),Way 1 virtual class on (0,0,1),OPEN
-true mixed seed,X_010(alpha,phi_J,beta),Way 1 virtual class on (0,1,0),OPEN
-true mixed seed,X_100(phi_J,alpha,beta),Way 1 virtual class on (1,0,0),OPEN
-unit,1,CohFT unit in the identity sector,structure not a mixed fill
+true mixed seed remainder,X_001(alpha,beta,phi_J) both non-unit,Way 1 virtual class on (0,0,1),OPEN
+true mixed seed remainder,X_010(alpha,phi_J,beta) both non-unit,Way 1 virtual class on (0,1,0),OPEN
+true mixed seed remainder,X_100(phi_J,alpha,beta) both non-unit,Way 1 virtual class on (1,0,0),OPEN
+unit slice of S,X_001(1,beta,phi_J),unit axiom plus eta(broad,narrow)=0,closed at 0 not dummy
+unit,1 in Jac(F)^J degree 0,Hilbert first 1; CohFT unit slice,structure not a mixed fill
 metric Lefschetz,eta on omega-line,includes volume pairing int_X omega^4 = 6,structure not a mixed fill
 metric broad,eta on Jac(F)^J,residue pairing of the 2605,structure not a mixed fill

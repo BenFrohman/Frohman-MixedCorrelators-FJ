@@ -1,0 +1,6 @@
+jacobian_degree,dimension,hodge_piece,unit_slice,role_in_S
+0,1,H^{4,0},yes,closed by unit axiom plus eta; not a dummy numeral
+6,426,H^{3,1},no,non-unit broad; OPEN in X_001 after homogeneity
+12,1751,H^{2,2}_prim,no,non-unit broad; mixed-block lives here; OPEN
+18,426,H^{1,3},no,non-unit broad; OPEN after homogeneity
+24,1,H^{0,4},no,non-unit broad; OPEN after homogeneity
