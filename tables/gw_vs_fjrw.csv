@@ -1,7 +1,7 @@
 item,Gromov-Witten / QH*(X),FJRW
-Target,variety X,"singularity (W, G)"
-Moduli,M-bar_{g,n}(X, beta),M-bar_{g,n}^{W,G}
-State space,H*(X) or Chen-Ruan,FJRW state space H_{W,G}
-3-points,"<a,b,c>_{0,3,beta}^X","<a,b,c>_{0,3}^{W,G}"
+Target,variety X,"singularity (W G)"
+Moduli,"M-bar_{g n}(X beta)","M-bar_{g n}^{W G}"
+State space,"H*(X) or Chen-Ruan","FJRW state space H_{W G}"
+3-points,"<a b c>_{0 3 beta}^X","<a b c>_{0 3}^{W G}"
 Product,quantum cup product,FJRW quantum product
 Associativity,WDVV,WDVV
