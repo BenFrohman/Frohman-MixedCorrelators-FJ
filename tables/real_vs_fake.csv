@@ -1,0 +1,6 @@
+real_table,real_numbers,what_they_actually_are,fake_use
+Residue 3-points of Jac(W),"38 triples = 1, 4 triples = -6","Coefficient of the socle u^3 v^5 in abc, after u^5 = -6 v^5",Write 1 as a mixed F correlator
+Degree / volume,6 = int_X omega^4 = deg(X subset P^5),One pairing on the Lefschetz line (narrow, top power),Write 6 in every NNN or BNN cell
+Off-rule vanishing,0,"Decoration product != J, or Jac degree sum != 8",Write 0 in every allowed mixed cell
+Age / group order,"fractions k/6, |<J>| = 6",Age of J^k and the order of the cyclic group,Write 1/6 as a correlator (the 1/6 in that scratch)
+Slot census,"3 * 2605^2 = 20358075, 12 * 2605 = 31260, 21",How many basis triples exist,Treat a slot count as a correlator value
