@@ -1,0 +1,5 @@
+block,what_sits_there,status
+three narrow,Lefschetz line,one known pairing int omega^4=6; not the table
+three broad same-block pure tensors,residue product on Jac(W)^otimes3,algebra of the Jacobian; not the virtual class of F
+three broad mixed across the three summands,states that mix the three copies of W,OPEN
+mixed broad-narrow,one or two narrow insertions with broad,OPEN

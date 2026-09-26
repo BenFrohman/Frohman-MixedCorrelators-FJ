@@ -1,0 +1,4 @@
+integer,name,counts
+25,mu(W),Jacobian dimension of W = u^5 v + v^6
+26,mu(W^T),Jacobian dimension of W^T = u^5 + u v^6
+30,|det A| = |Aut(W)|,order of the diagonal symmetry group

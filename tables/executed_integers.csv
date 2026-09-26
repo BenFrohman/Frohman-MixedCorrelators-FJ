@@ -1,0 +1,8 @@
+value,name
+2605,dim Jac(F)^J broad sector
+1752,full h^{2,2} = 1751+1
+2606,b_4 = 2605+1
+2610,dim H^bullet(V(F))
+2610,dim FJRW(F,<J>) = 2605+5
+15625,mu(F) = 25^3
+27000,|Aut(F)| = 30^3

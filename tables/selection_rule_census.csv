@@ -1,0 +1,5 @@
+kind,deco_triples,basis_triples,status
+broad-broad-narrow,3,20358075,OPEN
+broad-narrow-narrow,12,31260,OPEN
+narrow-narrow-narrow,21,21,narrow line; volume 6 is one pairing not the table
+ALL passing k+l+m ≡ 1 mod 6,36,,selection rule only
