@@ -1,31 +1,43 @@
-a,b,c,value,note
-1,1,u^3v^5,1,Jac(W) residue not F vir
-1,u,u^2v^5,1,Jac(W) residue not F vir
-1,u^2,uv^5,1,Jac(W) residue not F vir
-1,u^2v,uv^4,1,Jac(W) residue not F vir
-1,u^2v^2,uv^3,1,Jac(W) residue not F vir
-1,u^2v^3,uv^2,1,Jac(W) residue not F vir
-1,u^2v^4,uv,1,Jac(W) residue not F vir
-1,u^3,v^5,1,Jac(W) residue not F vir
-1,u^3v,v^4,1,Jac(W) residue not F vir
-1,u^3v^2,v^3,1,Jac(W) residue not F vir
-1,u^3v^3,v^2,1,Jac(W) residue not F vir
-1,u^3v^4,v,1,Jac(W) residue not F vir
-1,u^4,u^4,-6,uses u^5=-6v^5
-u,u,uv^5,1,Jac(W) residue not F vir
-u,u^2,v^5,1,Jac(W) residue not F vir
-u,u^2v,v^4,1,Jac(W) residue not F vir
-u,u^2v^2,v^3,1,Jac(W) residue not F vir
-u,u^2v^3,v^2,1,Jac(W) residue not F vir
-u,u^2v^4,v,1,Jac(W) residue not F vir
-u,u^3,u^4,-6,uses u^5=-6v^5
-u,uv,uv^4,1,Jac(W) residue not F vir
-u,uv^2,uv^3,1,Jac(W) residue not F vir
-u^2,u^2,u^4,-6,uses u^5=-6v^5
-u^2,u^3,u^3,-6,uses u^5=-6v^5
-u^2,uv,v^4,1,Jac(W) residue not F vir
-u^2,uv^2,v^3,1,Jac(W) residue not F vir
-u^2,uv^3,v^2,1,Jac(W) residue not F vir
-u^2,uv^4,v,1,Jac(W) residue not F vir
-uv,uv,uv^3,1,Jac(W) residue not F vir
-uv,uv^2,uv^2,1,Jac(W) residue not F vir
+a,b,c,deg_a,deg_b,deg_c,value,note
+1,1,u^3v^5,0,0,8,1,Jac(W) residue; not F-vir
+1,v,u^3v^4,0,1,7,1,Jac(W) residue; not F-vir
+1,v^2,u^3v^3,0,2,6,1,Jac(W) residue; not F-vir
+1,v^3,u^3v^2,0,3,5,1,Jac(W) residue; not F-vir
+1,v^4,u^3v,0,4,4,1,Jac(W) residue; not F-vir
+1,v^5,u^3,0,5,3,1,Jac(W) residue; not F-vir
+1,u,u^2v^5,0,1,7,1,Jac(W) residue; not F-vir
+1,uv,u^2v^4,0,2,6,1,Jac(W) residue; not F-vir
+1,uv^2,u^2v^3,0,3,5,1,Jac(W) residue; not F-vir
+1,uv^3,u^2v^2,0,4,4,1,Jac(W) residue; not F-vir
+1,uv^4,u^2v,0,5,3,1,Jac(W) residue; not F-vir
+1,uv^5,u^2,0,6,2,1,Jac(W) residue; not F-vir
+1,u^4,u^4,0,4,4,-6,uses u^5=-6v^5
+v,v,u^3v^3,1,1,6,1,Jac(W) residue; not F-vir
+v,v^2,u^3v^2,1,2,5,1,Jac(W) residue; not F-vir
+v,v^3,u^3v,1,3,4,1,Jac(W) residue; not F-vir
+v,v^4,u^3,1,4,3,1,Jac(W) residue; not F-vir
+v,u,u^2v^4,1,1,6,1,Jac(W) residue; not F-vir
+v,uv,u^2v^3,1,2,5,1,Jac(W) residue; not F-vir
+v,uv^2,u^2v^2,1,3,4,1,Jac(W) residue; not F-vir
+v,uv^3,u^2v,1,4,3,1,Jac(W) residue; not F-vir
+v,uv^4,u^2,1,5,2,1,Jac(W) residue; not F-vir
+v^2,v^2,u^3v,2,2,4,1,Jac(W) residue; not F-vir
+v^2,v^3,u^3,2,3,3,1,Jac(W) residue; not F-vir
+v^2,u,u^2v^3,2,1,5,1,Jac(W) residue; not F-vir
+v^2,uv,u^2v^2,2,2,4,1,Jac(W) residue; not F-vir
+v^2,uv^2,u^2v,2,3,3,1,Jac(W) residue; not F-vir
+v^2,uv^3,u^2,2,4,2,1,Jac(W) residue; not F-vir
+v^3,u,u^2v^2,3,1,4,1,Jac(W) residue; not F-vir
+v^3,uv,u^2v,3,2,3,1,Jac(W) residue; not F-vir
+v^3,uv^2,u^2,3,3,2,1,Jac(W) residue; not F-vir
+v^4,u,u^2v,4,1,3,1,Jac(W) residue; not F-vir
+v^4,uv,u^2,4,2,2,1,Jac(W) residue; not F-vir
+v^5,u,u^2,5,1,2,1,Jac(W) residue; not F-vir
+u,u,uv^5,1,1,6,1,Jac(W) residue; not F-vir
+u,uv,uv^4,1,2,5,1,Jac(W) residue; not F-vir
+u,uv^2,uv^3,1,3,4,1,Jac(W) residue; not F-vir
+u,u^3,u^4,1,3,4,-6,uses u^5=-6v^5
+uv,uv,uv^3,2,2,4,1,Jac(W) residue; not F-vir
+uv,uv^2,uv^2,2,3,3,1,Jac(W) residue; not F-vir
+u^2,u^2,u^4,2,2,4,-6,uses u^5=-6v^5
+u^2,u^3,u^3,2,3,3,-6,uses u^5=-6v^5
