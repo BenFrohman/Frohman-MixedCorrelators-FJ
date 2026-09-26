@@ -1,8 +1,8 @@
 kind,symbol,role,status
-true mixed seed remainder,X_001(alpha,beta,phi_J) both non-unit,Way 1 virtual class on (0,0,1),OPEN
-true mixed seed remainder,X_010(alpha,phi_J,beta) both non-unit,Way 1 virtual class on (0,1,0),OPEN
-true mixed seed remainder,X_100(phi_J,alpha,beta) both non-unit,Way 1 virtual class on (1,0,0),OPEN
-unit slice of S,X_001(1,beta,phi_J),unit axiom plus eta(broad,narrow)=0,closed at 0 not dummy
-unit,1 in Jac(F)^J degree 0,Hilbert first 1; CohFT unit slice,structure not a mixed fill
-metric Lefschetz,eta on omega-line,includes volume pairing int_X omega^4 = 6,structure not a mixed fill
-metric broad,eta on Jac(F)^J,residue pairing of the 2605,structure not a mixed fill
+true seed,X_001(alpha,beta,1_J),two broad plus narrow unit on (0,0,1),OPEN
+true seed,X_010(alpha,1_J,beta),permutation,OPEN
+true seed,X_100(1_J,alpha,beta),permutation,OPEN
+unit,1_J,narrow J-sector generator; Fix(J)={0}; NOT Jac R_0,structure
+broad line R_0,H^{4,0},identity-sector degree 0; a broad state; NOT the unit,not a seed
+metric Lefschetz,eta on omega-line,includes volume pairing int_X omega^4 = 6,structure
+metric broad,eta on Jac(F)^J,residue pairing of the 2605; blocks 1x1 / 426x426 / 1751x1751,candidate value of S if unit axiom applies
