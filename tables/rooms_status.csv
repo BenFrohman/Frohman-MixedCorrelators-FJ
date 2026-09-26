@@ -1,0 +1,5 @@
+kind,decoration_rooms,basis_slots,value,status
+off-rule (any kind),180,n/a,0,CLOSED empty stack
+BBN / BNB / NBB,3,6786025 each (3*2605^2 = 20358075 total),OPEN,NOT EVALUATED
+BNN / NBN / NNB,12,2605 each (12*2605 = 31260 total),OPEN,NOT EVALUATED
+NNN,21,1 each,OPEN except the Lefschetz pairing equals volume 6,NOT a fill of mixed BBN/BNN

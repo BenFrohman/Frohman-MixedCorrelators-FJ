@@ -1,0 +1,13 @@
+quantity,value,why
+off-rule cells,180 of 216 are 0,"k+l+m not equiv 1 mod 6 => empty F-spin stack => domain empty"
+volume,int_X omega^4 = 6,"degree of a sextic in P^5; one pairing on the Lefschetz line"
+mu(W),25,"Jacobian LTs v^6, u^5, u^4 v; monomials 4*6+1=25"
+mu(W^T),26,"Jacobian LTs u^4, uv^5, v^11; 11+15=26"
+abs(det A)=abs(Aut(W)),30,"A = [[5,1],[0,6]]; v^11 is membership in (d W^T)"
+mu(F),15625,"25^3 Thom-Sebastiani of Jacobians"
+abs(Aut(F)),27000,"30^3 product of groups"
+Hilbert of J-invariants,"(1, 426, 1751, 426, 1)","degrees 0,6,12,18,24; sum 2605"
+state space,2610 = 2605 + 5,"J-invariants of Jac(F) plus five narrow Lefschetz states"
+full h^{2,2},1752 = 1751 + 1,"extra 1 is omega^2, algebraic"
+b_4,2606 = 2605 + 1,"same extra 1"
+Jac(W) residue triples,"42 in {1,-6}; Counter {1:38, -6:4}","coeff of socle u^3 v^5; algebra, not the virtual class"
