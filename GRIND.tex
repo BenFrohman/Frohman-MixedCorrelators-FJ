@@ -1,0 +1,30 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\pagestyle{empty}
+\begin{document}
+\begin{center}
+{\Large\textbf{Frohman problem --- grind sheet}}\\[0.4em]
+Benjamin Stanley Frohman \quad Copyright (c) 2026 \quad Apache-2.0
+\end{center}
+\vspace{0.8em}
+\noindent\textbf{Problem.} Let $W=u^5v+v^6$ and $F=W\oplus W\oplus W$. Let $J$ scale every coordinate of $\mathbb{C}^6$ by a primitive sixth root of unity. Compute
+\[
+\langle\alpha,\beta,\gamma\rangle_{0,3}^{F,\langle J\rangle}
+=\int_{\overline{\mathcal{M}}_{0,3}^{F,\langle J\rangle}}
+\bigl[\overline{\mathcal{M}}_{0,3}^{F,\langle J\rangle}\bigr]^{\mathrm{vir}}
+\]
+for every triple in the $2610=2605+5$ dimensional state space that passes $k+\ell+m\equiv 1\pmod{6}$. Show the numbers are not a product of three Gu\'er\'e integrals of $W$.
+
+\vspace{0.5em}
+\noindent\textbf{Real inputs, no dummy.}
+\[
+v^{11}=v^5(5u^4+v^6)-5u^3(uv^5)\in(\partial W^T).
+\]
+LTs $\{u^4,uv^5,v^{11}\}$ lock $\mu(W^T)=11+15=26$. Locked triple: $\mu(W)=25$, $\mu(W^T)=26$, $|\det A|=30$. Cubes $15625$, $27000$.
+
+\vspace{0.4em}
+\noindent Selection rule $k+\ell+m\equiv 1\pmod{6}$: $36$ ordered decoration triples. Slot counts are sizes, not values. OPEN cells are not $0$, $1$, or $6$.
+\end{document}
