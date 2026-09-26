@@ -1,10 +1,8 @@
-# Frohman-MixedCorrelators-FJ
+# Textbook form of the Frohman problem
 
 Author: Benjamin Stanley Frohman  
 Copyright (c) 2026 Benjamin Stanley Frohman  
 License: Apache-2.0
-
-Textbook statement: [TEXTBOOK.md](TEXTBOOK.md)
 
 **Problem (Frohman, mixed correlators of a three-block chain sum).**
 
@@ -26,10 +24,3 @@ where $\alpha,\beta,\gamma$ run over that $2610$-dimensional space, including mi
 Show that these numbers are not a product of three Guéré integrals of $W$. Produce the table, or prove vanishing, for every allowed triple.
 
 That is the Frohman problem. It is not Guéré’s theorem.
-
-## Status
-
-- 216 decoration triples = 36 allowed + 180 empty-stack zeros
-- Allowed mixed rooms stay OPEN
-- Locked ranks: $\mu(W)=25$, $\mu(W^T)=26$, $|\det A|=30$
-- Close condition: [docs/CLOSE_LINES.md](docs/CLOSE_LINES.md)
