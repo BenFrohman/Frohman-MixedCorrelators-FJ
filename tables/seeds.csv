@@ -1,8 +1,12 @@
 kind,symbol,role,status
-true seed,X_001(alpha,beta,1_J),two broad plus narrow unit on (0,0,1),OPEN
-true seed,X_010(alpha,1_J,beta),permutation,OPEN
-true seed,X_100(1_J,alpha,beta),permutation,OPEN
-unit,1_J,narrow J-sector generator; Fix(J)={0}; NOT Jac R_0,structure
-broad line R_0,H^{4,0},identity-sector degree 0; a broad state; NOT the unit,not a seed
-metric Lefschetz,eta on omega-line,includes volume pairing int_X omega^4 = 6,structure
-metric broad,eta on Jac(F)^J,residue pairing of the 2605; blocks 1x1 / 426x426 / 1751x1751,candidate value of S if unit axiom applies
+true mixed seed,X_001(alpha,beta,1_J),Way 1 on (0,0,1); two broad + unit,OPEN until unit axiom cited for broad marks
+true mixed seed,X_010(alpha,1_J,beta),Way 1 on (0,1,0),OPEN
+true mixed seed,X_100(1_J,alpha,beta),Way 1 on (1,0,0),OPEN
+unit,1_J generator of H_J,narrow; Fix(J)={0}; deg 0; maps to 1 in H^0,NOT the Jac deg-0 line
+NOT the unit,R_0 = Jac deg-0,H^{4,0} broad; first Hilbert 1,dummy identification withdrawn
+metric Lefschetz,eta on omega-line,includes volume int_X omega^4 = 6,structure; two-point on narrow line
+metric broad,eta on Jac(F)^J,residue pairing of the 2605; blocks 1x1 / 426x426 / 1751x1751,form of S if unit axiom applies
+OPEN remainder,12 BNN rooms,"(0,2,5) and permutations",OPEN; unit axiom does not fire
+wrong seed,42 Jac(W) residues,"{1,-6}",OUT
+wrong seed,three Gueré integrals of W,one chain,OUT
+wrong seed,"0, 1, 6, 1/6 in X_001",invented mixed number,OUT
