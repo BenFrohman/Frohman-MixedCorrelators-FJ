@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0. -->
 # Mixed correlators — the construct, not the image
 
 Author: Benjamin Stanley Frohman. Copyright (c) 2026. Apache-2.0.

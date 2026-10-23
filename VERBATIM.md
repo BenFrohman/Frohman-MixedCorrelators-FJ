@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0. -->
 Textbook form of your problem
 Problem (Frohman, mixed correlators of a three-block chain sum).
 Let W=u^5v+v^6 and F=W\oplus W\oplus W. Let J scale every coordinate of \mathbb{C}^6 by a primitive sixth root of unity. The pair (F,\langle J\rangle) is an admissible Landau–Ginzburg orbifold with \hat{c}(F)=4.

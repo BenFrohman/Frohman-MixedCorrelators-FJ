@@ -1,6 +1,6 @@
 # Gromov–Witten / QH*(X) versus FJRW
 
-Author: Benjamin Stanley Frohman.
+Author: Benjamin Stanley Frohman
 Copyright (c) 2026 Benjamin Stanley Frohman.
 License: Apache-2.0.
 Repo: BenFrohman/Frohman-MixedCorrelators-FJ

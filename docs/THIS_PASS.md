@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0. -->
 # This pass does not evaluate OPEN cells
 
 Author: Benjamin Stanley Frohman. Copyright (c) 2026. Apache-2.0.
