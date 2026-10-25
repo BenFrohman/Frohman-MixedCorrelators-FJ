@@ -1,0 +1,33 @@
+{
+  "title": "Mixed-Sector FJRW Correlators of a Three-Block Chain Sum and Textbook Formulation of the Frohman Problem",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-09-25",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "doi": "10.5281/zenodo.23629490",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "keywords": [
+    "FJRW theory",
+    "Landau-Ginzburg models",
+    "chain polynomial",
+    "WDVV equations",
+    "quantum singularity theory",
+    "Witten equation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/Frohman-MixedCorrelators-FJ",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Origin Provenance: 2026-09-25 21:43:26 CDT (Git Initial Commit). Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).",
+  "description": "<p>Formulation and complete selection-rule census (<code>all_216_decoration_triples.csv</code>, <code>allowed_36.csv</code>) for the mixed-sector Fan-Jarvis-Ruan-Witten (FJRW) correlators of the three-block chain potential <code>F = W(x0,x3) + W(x1,x4) + W(x2,x5)</code> with <code>W = u^5 v + v^6</code> and symmetry group <code>G_F = (Z/30Z)^3</code> of order <code>27,000</code>, isolating the 36 selection-rule-allowed rooms and the 4 irreducible four-point mixed correlator seeds.</p>"
+}
