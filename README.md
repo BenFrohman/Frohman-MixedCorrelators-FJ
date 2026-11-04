@@ -46,3 +46,9 @@ That is the Frohman problem. It is not Guéré’s theorem.
 - Allowed mixed rooms stay OPEN
 - Locked ranks: $\mu(W)=25$, $\mu(W^T)=26$, $|\det A|=30$
 - Close condition: [docs/CLOSE_LINES.md](docs/CLOSE_LINES.md)
+
+## Zenodo archive
+
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23629489.svg)](https://doi.org/10.5281/zenodo.23629489) Mixed-Sector FJRW Correlators of a Three-Block Chain Sum and Textbook Formulation of the Frohman Problem — all versions: [10.5281/zenodo.23629489](https://doi.org/10.5281/zenodo.23629489); latest version: [10.5281/zenodo.23629490](https://doi.org/10.5281/zenodo.23629490)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23632789.svg)](https://doi.org/10.5281/zenodo.23632789) Mixed-Correlator Reconstruction Constraints and Selection Rules for Invertible Chain Polynomials in Fan-Jarvis-Ruan-Witten (FJRW) Theory — all versions: [10.5281/zenodo.23632789](https://doi.org/10.5281/zenodo.23632789); latest version: [10.5281/zenodo.23632790](https://doi.org/10.5281/zenodo.23632790)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867573.svg)](https://doi.org/10.5281/zenodo.23867573) Mixed-Sector FJRW Correlators of a Three-Block Chain Sum and Textbook Formulation of the Frohman Problem — all versions: [10.5281/zenodo.23867573](https://doi.org/10.5281/zenodo.23867573); latest version: [10.5281/zenodo.23867574](https://doi.org/10.5281/zenodo.23867574)
